@@ -1,0 +1,16 @@
+- Atom.app
+- Clipy.app
+- DeepL.app
+- Google Chrome.app
+- Keynote.app
+- LINE.app
+- MacDown.app
+- MacPorts
+- Magnet.app
+- Mapture-0.0.16.app
+- Microsoft To Do.app
+- Notion.app
+- QuickTime Player.app
+- Slack.app
+- Xcode.app
+- zoom.us.app
